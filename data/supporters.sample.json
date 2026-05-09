@@ -1,0 +1,31 @@
+{
+  "source": "afdian-sample",
+  "updatedAt": "2026-05-09T00:00:00.000Z",
+  "total": 3,
+  "supporters": [
+    {
+      "id": "sample-1",
+      "name": "Sample Supporter",
+      "avatar": "",
+      "platform": "爱发电",
+      "firstPayTime": "2026-05-01",
+      "lastPayTime": "2026-05-09"
+    },
+    {
+      "id": "sample-2",
+      "name": "Mod Friend",
+      "avatar": "",
+      "platform": "爱发电",
+      "firstPayTime": "2026-05-02",
+      "lastPayTime": "2026-05-08"
+    },
+    {
+      "id": "sample-3",
+      "name": "Route Planner",
+      "avatar": "",
+      "platform": "爱发电",
+      "firstPayTime": "2026-05-03",
+      "lastPayTime": "2026-05-07"
+    }
+  ]
+}

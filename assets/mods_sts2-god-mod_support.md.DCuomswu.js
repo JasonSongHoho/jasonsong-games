@@ -1,0 +1,43 @@
+import{_ as a,o as n,c as p,ag as l}from"./chunks/framework.DjqkqlVQ.js";const u=JSON.parse('{"title":"反馈 STS2 God Mod","description":"","frontmatter":{},"headers":[],"relativePath":"mods/sts2-god-mod/support.md","filePath":"mods/sts2-god-mod/support.md","lastUpdated":1778341931000}'),e={name:"mods/sts2-god-mod/support.md"};function i(o,s,t,c,d,r){return n(),p("div",null,[...s[0]||(s[0]=[l(`<h1 id="反馈-sts2-god-mod" tabindex="-1">反馈 STS2 God Mod <a class="header-anchor" href="#反馈-sts2-god-mod" aria-label="Permalink to &quot;反馈 STS2 God Mod&quot;">​</a></h1><p>如果 God Mod 帮你更快测试构筑、复现问题或验证 Mod 机制，欢迎通过反馈、测试或翻译支持项目。</p><h2 id="可以怎样协作" tabindex="-1">可以怎样协作 <a class="header-anchor" href="#可以怎样协作" aria-label="Permalink to &quot;可以怎样协作&quot;">​</a></h2><ul><li>反馈功能入口是否清楚、面板是否易用。</li><li>提交不同语言环境下的文本问题。</li><li>提供高价值的沙盒工作流建议。</li><li>反馈游戏更新后失效的功能。</li><li>帮忙验证多人测试场景。</li><li>提供事件 QoL、预设系统或 Traveler 模式的实际需求案例。</li></ul><h2 id="赞赏支持" tabindex="-1">赞赏支持 <a class="header-anchor" href="#赞赏支持" aria-label="Permalink to &quot;赞赏支持&quot;">​</a></h2><p>赞赏入口、赞赏说明和赞赏者名单统一放在 <a href="/jasonsong-games/support/">全站支持页</a>。</p><h2 id="反馈重点" tabindex="-1">反馈重点 <a class="header-anchor" href="#反馈重点" aria-label="Permalink to &quot;反馈重点&quot;">​</a></h2><p>提交问题时，可以直接复制下面的模板：</p><div class="language-text vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>【Mod 问题反馈模板】</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 必选：God Mod 版本</span></span>
+<span class="line"><span>- 必选：游戏版本</span></span>
+<span class="line"><span>- 必选：平台（Windows / Mac / 安卓 / iOS）</span></span>
+<span class="line"><span>- 必选：游戏模式（单机 / 多人）</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 可选：是否安装其他 Mod</span></span>
+<span class="line"><span>例如：没有 / 有（请列出）</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 问题标题</span></span>
+<span class="line"><span>用一句话概括问题</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 必选：问题描述</span></span>
+<span class="line"><span>简单说明发生了什么</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 必选：复现步骤</span></span>
+<span class="line"><span>1.</span></span>
+<span class="line"><span>2.</span></span>
+<span class="line"><span>3.</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 必选：预期结果</span></span>
+<span class="line"><span>你原本认为应该发生什么</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 必选：实际结果</span></span>
+<span class="line"><span>实际发生了什么</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 必选：是否稳定复现</span></span>
+<span class="line"><span>例如：每次都会 / 偶尔发生 / 只发生过一次</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 可选：发生场景</span></span>
+<span class="line"><span>例如：地图 / 战斗 / 商店 / 营火 / 事件 / 奖励界面 / 其他</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 可选：涉及功能</span></span>
+<span class="line"><span>例如：加卡、删卡、升级卡、加遗物、改金币、传送、事件控制等</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 可选：报错日志 / 弹窗内容</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 可选：补充信息</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 可选：截图</span></span>
+<span class="line"><span>- 可选：录屏</span></span></code></pre></div><h2 id="日志位置" tabindex="-1">日志位置 <a class="header-anchor" href="#日志位置" aria-label="Permalink to &quot;日志位置&quot;">​</a></h2><p>God Mod 日志：</p><div class="language-text vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>xxx/mods/sts2_god_mod/sts2_god_mod.log</span></span></code></pre></div><p>Godot 日志：</p><div class="language-text vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>Windows:</span></span>
+<span class="line"><span>C:\\Users\\&lt;你的用户名&gt;\\AppData\\Roaming\\SlayTheSpire2\\logs\\godot.log</span></span></code></pre></div><h2 id="联系方式" tabindex="-1">联系方式 <a class="header-anchor" href="#联系方式" aria-label="Permalink to &quot;联系方式&quot;">​</a></h2><p>Email: <code>songjisong@foxmail.com</code></p>`,16)])])}const g=a(e,[["render",i]]);export{u as __pageData,g as default};

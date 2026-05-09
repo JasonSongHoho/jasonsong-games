@@ -1,0 +1,69 @@
+{
+  "source": "afdian+manual",
+  "updatedAt": "2026-05-09T13:25:54.273Z",
+  "total": 4,
+  "supporters": [
+    {
+      "id": "qq-yue",
+      "name": "月",
+      "avatar": "/support/avatars/qq-yue.jpg",
+      "platform": "其他支持者",
+      "amount": 25,
+      "firstPayTime": "2026-04-29",
+      "lastPayTime": "2026-05-09",
+      "payments": [
+        {
+          "date": "2026-04-29",
+          "time": "20:57",
+          "amount": 5
+        },
+        {
+          "date": "2026-05-09",
+          "time": "00:34",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "id": "b9636f604b8e11f1bc1052540025c377",
+      "name": "爱发电用户_b9636",
+      "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
+      "platform": "爱发电",
+      "amount": 5,
+      "firstPayTime": null,
+      "lastPayTime": "2026-05-09"
+    },
+    {
+      "id": "qq-jingtian",
+      "name": "景天",
+      "avatar": "/support/avatars/qq-jingtian.jpg",
+      "platform": "其他支持者",
+      "amount": 20,
+      "firstPayTime": "2026-04-29",
+      "lastPayTime": "2026-04-29",
+      "payments": [
+        {
+          "date": "2026-04-29",
+          "time": "20:58",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "id": "qq-shiba",
+      "name": "十八",
+      "avatar": "/support/avatars/qq-shiba.jpg",
+      "platform": "其他支持者",
+      "amount": 1.53,
+      "firstPayTime": "2026-04-29",
+      "lastPayTime": "2026-04-29",
+      "payments": [
+        {
+          "date": "2026-04-29",
+          "time": "13:34",
+          "amount": 1.53
+        }
+      ]
+    }
+  ]
+}
