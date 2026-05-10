@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">[杀戮尖塔2]God/Map Mod 讨论群</title>
+  <desc id="desc">A QQ group card for the Slay the Spire 2 God Mod and Map Mod discussion group.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="0.55" stop-color="#eef3f9"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <radialGradient id="avatarGlow" cx="50%" cy="45%" r="65%">
+      <stop offset="0" stop-color="#1bd7ff" stop-opacity="0.9"/>
+      <stop offset="0.42" stop-color="#0c2a4c" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#05070d"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#0f172a" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="36" fill="url(#bg)"/>
+  <g opacity="0.72">
+    <path d="M834 42c119 15 199 67 302 40" fill="none" stroke="#dbe4ef" stroke-width="24" stroke-linecap="round"/>
+    <path d="M760 305c140-22 228-76 378-45" fill="none" stroke="#e7edf5" stroke-width="28" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(78 70)" filter="url(#shadow)">
+    <circle cx="110" cy="110" r="110" fill="url(#avatarGlow)"/>
+    <circle cx="110" cy="110" r="108" fill="none" stroke="#172033" stroke-width="4"/>
+    <rect x="44" y="60" width="132" height="94" rx="10" fill="#07111f" stroke="#18baf2" stroke-width="3"/>
+    <rect x="58" y="76" width="104" height="10" rx="5" fill="#47e7ff" opacity="0.45"/>
+    <rect x="58" y="101" width="72" height="8" rx="4" fill="#47e7ff" opacity="0.62"/>
+    <rect x="58" y="123" width="92" height="8" rx="4" fill="#47e7ff" opacity="0.35"/>
+    <circle cx="62" cy="67" r="13" fill="#ffe24b"/>
+    <circle cx="62" cy="67" r="7" fill="#f59e0b"/>
+    <g fill="#7dd3fc" opacity="0.8">
+      <rect x="141" y="100" width="16" height="6" rx="3"/>
+      <rect x="141" y="119" width="16" height="6" rx="3"/>
+      <rect x="141" y="138" width="16" height="6" rx="3"/>
+    </g>
+  </g>
+  <g transform="translate(330 84)">
+    <text x="0" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="54" font-weight="800" fill="#111827">[杀戮尖塔2]God/Map</text>
+    <text x="0" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="54" font-weight="800" fill="#111827">Mod 讨论群</text>
+    <rect x="0" y="167" width="460" height="22" rx="11" fill="#d1d5db"/>
+    <rect x="24" y="171" width="412" height="14" rx="7" fill="#e5e7eb"/>
+  </g>
+  <g transform="translate(1070 170)" fill="#9ca3af">
+    <rect x="0" y="0" width="22" height="22" rx="5"/>
+    <rect x="34" y="0" width="22" height="22" rx="5"/>
+    <rect x="0" y="34" width="22" height="22" rx="5"/>
+    <rect x="34" y="34" width="22" height="22" rx="5"/>
+    <rect x="68" y="0" width="14" height="14" rx="4"/>
+    <rect x="68" y="42" width="14" height="14" rx="4"/>
+    <rect x="42" y="68" width="14" height="14" rx="4"/>
+  </g>
+</svg>
