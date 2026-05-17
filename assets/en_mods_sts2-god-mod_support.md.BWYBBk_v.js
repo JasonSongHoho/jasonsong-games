@@ -1,0 +1,43 @@
+import{_ as s,o as n,c as e,ai as p}from"./chunks/framework.DyvBZb4W.js";const h=JSON.parse('{"title":"Feedback for STS2 God Mod","description":"","frontmatter":{},"headers":[],"relativePath":"en/mods/sts2-god-mod/support.md","filePath":"en/mods/sts2-god-mod/support.md","lastUpdated":1778341931000}'),l={name:"en/mods/sts2-god-mod/support.md"};function o(t,a,i,r,d,c){return n(),e("div",null,[...a[0]||(a[0]=[p(`<h1 id="feedback-for-sts2-god-mod" tabindex="-1">Feedback for STS2 God Mod <a class="header-anchor" href="#feedback-for-sts2-god-mod" aria-label="Permalink to &quot;Feedback for STS2 God Mod&quot;">​</a></h1><p>If God Mod helps you test builds, reproduce bugs, or validate mod mechanics faster, feedback and testing are very welcome.</p><h2 id="helpful-collaboration" tabindex="-1">Helpful Collaboration <a class="header-anchor" href="#helpful-collaboration" aria-label="Permalink to &quot;Helpful Collaboration&quot;">​</a></h2><ul><li>Report unclear panel entries or confusing workflows.</li><li>Submit text issues from different language settings.</li><li>Share high-value sandbox workflow ideas.</li><li>Report breakage after game updates.</li><li>Help validate multiplayer test scenarios.</li><li>Provide real use cases for event QoL, preset workflows, or Traveler mode.</li></ul><h2 id="sponsor-support" tabindex="-1">Sponsor Support <a class="header-anchor" href="#sponsor-support" aria-label="Permalink to &quot;Sponsor Support&quot;">​</a></h2><p>Sponsorship links, sponsorship notes, and supporter lists are centralized on the <a href="/jasonsong-games/en/support/">site support page</a>.</p><h2 id="useful-bug-report-details" tabindex="-1">Useful Bug Report Details <a class="header-anchor" href="#useful-bug-report-details" aria-label="Permalink to &quot;Useful Bug Report Details&quot;">​</a></h2><p>You can copy this template when reporting an issue:</p><div class="language-text vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>[Mod Bug Report Template]</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- Required: God Mod version</span></span>
+<span class="line"><span>- Required: game version</span></span>
+<span class="line"><span>- Required: platform (Windows / Mac / Android / iOS)</span></span>
+<span class="line"><span>- Required: game mode (singleplayer / multiplayer)</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- Optional: other mods installed</span></span>
+<span class="line"><span>Example: none / yes (please list them)</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- Issue title</span></span>
+<span class="line"><span>Summarize the issue in one sentence</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- Required: description</span></span>
+<span class="line"><span>Briefly describe what happened</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- Required: reproduction steps</span></span>
+<span class="line"><span>1.</span></span>
+<span class="line"><span>2.</span></span>
+<span class="line"><span>3.</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- Required: expected result</span></span>
+<span class="line"><span>What you expected to happen</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- Required: actual result</span></span>
+<span class="line"><span>What actually happened</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- Required: reproducibility</span></span>
+<span class="line"><span>Example: always / sometimes / only happened once</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- Optional: scene</span></span>
+<span class="line"><span>Example: map / combat / shop / campfire / event / reward screen / other</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- Optional: affected feature</span></span>
+<span class="line"><span>Example: add card, remove card, upgrade card, add relic, edit gold, teleport, event control, etc.</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- Optional: error log / popup text</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- Optional: extra information</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- Optional: screenshot</span></span>
+<span class="line"><span>- Optional: screen recording</span></span></code></pre></div><h2 id="log-locations" tabindex="-1">Log Locations <a class="header-anchor" href="#log-locations" aria-label="Permalink to &quot;Log Locations&quot;">​</a></h2><p>God Mod log:</p><div class="language-text vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>xxx/mods/sts2_god_mod/sts2_god_mod.log</span></span></code></pre></div><p>Godot log:</p><div class="language-text vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>Windows:</span></span>
+<span class="line"><span>C:\\Users\\&lt;your-user-name&gt;\\AppData\\Roaming\\SlayTheSpire2\\logs\\godot.log</span></span></code></pre></div><h2 id="contact" tabindex="-1">Contact <a class="header-anchor" href="#contact" aria-label="Permalink to &quot;Contact&quot;">​</a></h2><p>Email: <code>songjisong@foxmail.com</code></p>`,16)])])}const m=s(l,[["render",o]]);export{h as __pageData,m as default};

@@ -1,0 +1,42 @@
+import{_ as s,o as n,c as p,ai as e}from"./chunks/framework.DyvBZb4W.js";const u=JSON.parse('{"title":"反馈玄羁","description":"","frontmatter":{},"headers":[],"relativePath":"mods/xuanji-character/support.md","filePath":"mods/xuanji-character/support.md","lastUpdated":1779001232000}'),l={name:"mods/xuanji-character/support.md"};function i(t,a,c,o,r,d){return n(),p("div",null,[...a[0]||(a[0]=[e(`<h1 id="反馈玄羁" tabindex="-1">反馈玄羁 <a class="header-anchor" href="#反馈玄羁" aria-label="Permalink to &quot;反馈玄羁&quot;">​</a></h1><p>如果你体验了玄羁，欢迎反馈卡组节奏、羁绊强度、UI 可读性、兼容性问题和文本问题。这个角色还在 Beta 阶段，越具体的复现和场景越有帮助。</p><h2 id="可以怎样协作" tabindex="-1">可以怎样协作 <a class="header-anchor" href="#可以怎样协作" aria-label="Permalink to &quot;可以怎样协作&quot;">​</a></h2><ul><li>反馈哪些羁绊路线过强、过弱或成型太慢。</li><li>反馈纳编、机匣、机核和羁绊面板是否容易理解。</li><li>提交卡牌、遗物、关键词或设置文本问题。</li><li>提供游戏更新后无法启动、无法进角色选择、战斗报错等兼容性信息。</li><li>分享高价值构筑样例，尤其是能稳定复现强度问题的牌组。</li></ul><h2 id="赞赏支持" tabindex="-1">赞赏支持 <a class="header-anchor" href="#赞赏支持" aria-label="Permalink to &quot;赞赏支持&quot;">​</a></h2><p>赞赏入口、赞赏说明和赞赏者名单统一放在 <a href="/jasonsong-games/support/">全站支持页</a>。</p><h2 id="反馈模板" tabindex="-1">反馈模板 <a class="header-anchor" href="#反馈模板" aria-label="Permalink to &quot;反馈模板&quot;">​</a></h2><div class="language-text vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>【玄羁问题反馈模板】</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 必选：玄羁版本</span></span>
+<span class="line"><span>- 必选：游戏版本</span></span>
+<span class="line"><span>- 必选：BaseLib 版本</span></span>
+<span class="line"><span>- 必选：平台（Windows / Mac / 安卓 / iOS）</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 可选：是否安装其他 Mod</span></span>
+<span class="line"><span>例如：没有 / 有（请列出）</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 问题标题</span></span>
+<span class="line"><span>用一句话概括问题</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 必选：问题描述</span></span>
+<span class="line"><span>简单说明发生了什么</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 必选：复现步骤</span></span>
+<span class="line"><span>1.</span></span>
+<span class="line"><span>2.</span></span>
+<span class="line"><span>3.</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 必选：预期结果</span></span>
+<span class="line"><span>你原本认为应该发生什么</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 必选：实际结果</span></span>
+<span class="line"><span>实际发生了什么</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 必选：是否稳定复现</span></span>
+<span class="line"><span>例如：每次都会 / 偶尔发生 / 只发生过一次</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 可选：发生场景</span></span>
+<span class="line"><span>例如：角色选择 / 地图 / 战斗 / 商店 / 营火 / 事件 / 奖励界面 / 其他</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 可选：涉及羁绊、卡牌、遗物或机核顺序</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 可选：报错日志 / 弹窗内容</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 可选：补充信息</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>- 可选：截图</span></span>
+<span class="line"><span>- 可选：录屏</span></span></code></pre></div><h2 id="日志位置" tabindex="-1">日志位置 <a class="header-anchor" href="#日志位置" aria-label="Permalink to &quot;日志位置&quot;">​</a></h2><p>玄羁日志通常位于：</p><div class="language-text vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>xxx/mods/Xuanji/xuanji.log</span></span></code></pre></div><p>Godot 日志：</p><div class="language-text vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>Windows:</span></span>
+<span class="line"><span>C:\\Users\\&lt;你的用户名&gt;\\AppData\\Roaming\\SlayTheSpire2\\logs\\godot.log</span></span></code></pre></div><h2 id="联系方式" tabindex="-1">联系方式 <a class="header-anchor" href="#联系方式" aria-label="Permalink to &quot;联系方式&quot;">​</a></h2><p>Email: <code>songjisong@foxmail.com</code></p>`,15)])])}const m=s(l,[["render",i]]);export{u as __pageData,m as default};
